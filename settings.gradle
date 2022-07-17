@@ -1,0 +1,2 @@
+rootProject.name = "VSplayer"
+include ':app'

@@ -4,11 +4,17 @@ This is a music player developed in android studio using java.
 
 Outputs:
 
-Starting Screen (List of Songs ) :
-              ![Screenshot 2022-09-01 231150](https://user-images.githubusercontent.com/89354259/187978953-51156778-7ed0-4b06-9c65-d99a4bc8c290.png)
+               Starting Screen (List of Songs ) :
 
-Playing Song :
-              ![Screenshot 2022-09-01 231241](https://user-images.githubusercontent.com/89354259/187979055-87e95853-0180-4ca5-9ee7-b3e4219b8525.png)
+![Screenshot 2022-09-01 231150](https://user-images.githubusercontent.com/89354259/187979807-a8828ed5-32bd-45ab-8d49-c5c2482c56d3.png)
 
-Seek Bar Working :
-              ![Screenshot 2022-09-01 231307](https://user-images.githubusercontent.com/89354259/187979125-be0568a7-bb76-425f-aa5c-9ad3bf52fd88.png)
+
+
+               Playing Song :
+![Screenshot 2022-09-01 231241](https://user-images.githubusercontent.com/89354259/187979893-ca392487-f6f7-4beb-899a-875a12f57900.png)
+          
+
+
+               Forwording music :
+  ![Screenshot 2022-09-01 231307](https://user-images.githubusercontent.com/89354259/187979934-53961e2c-8f07-4d8c-8860-38a84fa3c4ec.png)
+   

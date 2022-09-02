@@ -30,4 +30,6 @@ Python , Java , C , C++ ,Javascript, HTML, CSS...
 
 For support, email vijaykumarchauhan6465@gmail.com 
 
+## Feedback
 
+If you have any feedback, please reach out to us at vijaykumarchauhan6465@gmail.com
